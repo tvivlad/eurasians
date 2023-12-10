@@ -1,0 +1,97 @@
+/* .nav {
+  background-color: #007bff; 
+  box-shadow: 5px 5px 10px gray; 
+  font-size: 20px;
+  display: flex;
+  justify-content: left;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.links {
+  text-decoration: none;
+  padding: 15px 20px;
+  background-color: #007bff;
+  display: inline-block;
+  color: #fff;
+  font-size: 28px;
+}
+.links:first-child {
+  margin-left: 100px;
+}
+.links:hover {
+  background-color: #61adfd; 
+}
+.container {
+  width: 70%;
+  margin: 80px auto 70px;
+  font-size: 24px;
+  text-align: justify;
+  margin-top: 80px;
+}*/
+.footer {
+  width: 100%;
+  background-color: #343a40;
+  box-shadow: 5px 5px 10px gray;
+  font-size: 20px;
+  color: #fff;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: fixed;
+  text-align: right;
+  bottom: 0px;
+  left: 0px;
+}
+
+.for-footer {
+  display: block;
+  height: 70px;
+}
+.back {
+  background-color: rgb(1, 1, 109);
+}
+
+.mainText {
+  text-align: justify;
+}
+
+.card-style {
+  margin: 20px 10px;
+}
+
+.contactsCard {
+  background-color: #cbbddf;
+  padding: 40px;
+  border-radius: 10px;
+  display: flex;
+}
+
+.photo {
+  border-radius: 50%;
+}
+.contacts {
+  margin: 30px;
+}
+.uust {
+  font-size: 30px;
+  text-align: center;
+}
+
+.bio-image {
+  text-align: center;
+}
+
+.bio-image:hover {
+  width: 250px;
+}
+
+.biography-text {
+  display: none;
+}
+
+.biography-card {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 15px;
+}

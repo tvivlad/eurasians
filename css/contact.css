@@ -1,0 +1,22 @@
+.contactsCard {
+  background-color: #cbbddf;
+  padding: 40px;
+  border-radius: 10px;
+  display: flex;
+}
+
+.photo {
+  border-radius: 50%;
+}
+.contacts {
+  margin: 30px;
+}
+.uust {
+  font-size: 30px;
+  text-align: center;
+}
+.phone {
+}
+
+.address {
+}
